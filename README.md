@@ -120,14 +120,14 @@ La estructura del período de preparación de 14 días se muestra a continuació
 |Día 4|Flexiones, Remos invertidos|Teoría de entrenamiento|
 |Día 5|Flexiones, Remos invertidos, Puente de glúteos|¡La forma adecuada para puente de glúteos!|
 |Día 6|Flexiones, Remos invertidos, Puente de glúteos|Teoría de entrenamiento|
-|Día 7|DESCANSO!|Leer lo que no hayas leído o no hayas tenido tiempo de leer en la semana|
+|Día 7|¡DESCANSO!|Leer lo que no hayas leído o no hayas tenido tiempo de leer en la semana|
 |Día 8|Flexiones, Remos invertidos, Puente de glúteos, Sentadilla|¡La forma adecuada para sentadilla!|
 |Día 9|Flexiones, Remos invertidos, Puente de glúteos, Sentadilla|Teoría de entrenamiento|
 |Día 10|Deadbug, Flexiones, Remos invertidos, Puente de glúteos, Sentadilla|¡La forma adecuada para deadbug!|
 |Día 11|Deadbug, Flexiones, Remos invertidos, Puente de glúteos, Sentadilla|Teoría de entrenamiento|
 |Día 12|Bird-dog, Deadbug, Flexiones, Remos invertidos, Puente de glúteos, Sentadilla|¡La forma adecuada para Bird-dog!|
 |Día 13|Bird-dog, Deadbug, Flexiones, Remos invertidos, Puente de glúteos, Sentadilla|Teoría de entrenamiento|
-|Día 14|DESCANSO!|Leer lo que no hayas leído o no hayas tenido tiempo de leer en la semana|
+|Día 14|¡DESCANSO!|Leer lo que no hayas leído o no hayas tenido tiempo de leer en la semana|
 ||||
 
 \----
